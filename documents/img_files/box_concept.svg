@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="148mm"
+   height="105mm"
+   viewBox="0 0 148 105"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="box_concept.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:connector-spacing="3"
+     inkscape:zoom="1.4324916"
+     inkscape:cx="287.9598"
+     inkscape:cy="176.2663"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       originx="-11.82522"
+       originy="-4.7336089" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.825221,-4.7336088)">
+    <rect
+       style="fill:#aa8800;fill-opacity:0;stroke:#d4aa00;stroke-width:2.64826;stroke-dasharray:none;stroke-opacity:1"
+       id="rect294"
+       width="105"
+       height="55"
+       x="35.000004"
+       y="31.5"
+       ry="1.9411764" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect2098"
+       width="45"
+       height="8.5"
+       x="65"
+       y="21.5" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.0603023;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4028"
+       width="1"
+       height="4"
+       x="84"
+       y="28.5" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.0603023;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4028-9"
+       width="1"
+       height="4"
+       x="90.000008"
+       y="28.5" />
+    <rect
+       style="fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.124164;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect6239"
+       width="18.5"
+       height="1"
+       x="81.5"
+       y="27.5" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:#333333;stroke-width:0.104881;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect6449"
+       width="14.5"
+       height="5.4999962"
+       x="66.5"
+       y="23" />
+    <rect
+       style="fill:#008000;fill-opacity:1;stroke:#000080;stroke-width:0.100939;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect6555"
+       width="27"
+       height="1"
+       x="81.5"
+       y="23" />
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 81.000003,26.499999 h 1.5 V 27.5 h -0.5 v -0.499999 h -1 z"
+       id="path6952" />
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 100.5,27 h -0.999997 v 0.499999 h -0.5 V 26.5 H 100.5 Z"
+       id="path6952-3"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect7006"
+       width="0.5"
+       height="3.5"
+       x="83"
+       y="24" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:0.658892;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 85.474023,32 H 36.850652 c -0.675325,0 -1.350649,0.642857 -1.350649,1.285714 v 51.42857 C 35.500003,85.357142 36.175327,86 36.850652,86 H 138.14935 C 138.82468,86 139.5,85.357142 139.5,84.714284 V 33.285714 C 139.5,32.642857 138.82468,32 138.14935,32 H 89.525973"
+       id="path7166"
+       sodipodi:nodetypes="cccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       x="76.520927"
+       y="19.450611"
+       id="text8484"><tspan
+         sodipodi:role="line"
+         id="tspan8482"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+         x="76.520927"
+         y="19.450611">Electronics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       x="88.232079"
+       y="50.559902"
+       id="text8640"><tspan
+         sodipodi:role="line"
+         id="tspan8638"
+         style="stroke-width:0.1"
+         x="88.232079"
+         y="50.559902" /><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.1"
+         x="88.232079"
+         y="56.253559"
+         id="tspan8928">Secured </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.1"
+         x="88.232079"
+         y="62.42717"
+         id="tspan8930">Product</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       x="58.636696"
+       y="92.068153"
+       id="text8644"><tspan
+         sodipodi:role="line"
+         id="tspan8642"
+         style="font-size:4.93889px;stroke-width:0.1"
+         x="58.636696"
+         y="92.068153">Custom  secure  packaging</tspan></text>
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect8646"
+       width="8"
+       height="3"
+       x="100.50001"
+       y="25.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#aa8800;fill-opacity:1;stroke:#d4aa00;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       x="33"
+       y="91"
+       id="text12666"><tspan
+         sodipodi:role="line"
+         id="tspan12664"
+         style="font-size:2.82222px;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.1"
+         x="33"
+         y="91">Wrapping </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.1"
+         x="33"
+         y="94.527779"
+         id="tspan12770">conductive </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.1"
+         x="33"
+         y="98.05555"
+         id="tspan12772">layer</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31.000001,86.999998 v 0"
+       id="path12825"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.075;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.7;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 32.875001,88.999999 1.875,-1.875001 0.375,0.750002 0.375,-1.875 -1.875,0.375 0.75,0.374999 -1.875,1.875001 0.375,0.374999 v 0"
+       id="path13001"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>

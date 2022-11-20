@@ -1,0 +1,1 @@
+This repo id for the "Gestione dell'innovazione e dei progetti" UNIBO course
