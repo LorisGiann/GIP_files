@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="stencil.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="331.80986"
+     inkscape:cy="933.99967"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showguides="true"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7761"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="10" />
+    <sodipodi:guide
+       position="0,297"
+       orientation="0,793.70079"
+       id="guide17008"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,297"
+       orientation="1122.5197,0"
+       id="guide17010"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,0"
+       orientation="0,-793.70079"
+       id="guide17012"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1122.5197,0"
+       id="guide17014"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5879"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop5877" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3886"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop3884" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient782"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop780" />
+    </linearGradient>
+    <rect
+       x="680.31496"
+       y="869.29134"
+       width="94.488189"
+       height="75.590551"
+       id="rect7508" />
+    <rect
+       x="642.51969"
+       y="151.1811"
+       width="151.1811"
+       height="113.38583"
+       id="rect7412" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect544"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="1.309718,1.3780382"
+       not_jump="true"
+       sort_points="true"
+       interpolator_type="CentripetalCatmullRom"
+       interpolator_beta="0.75"
+       start_linecap_type="round"
+       linejoin_type="spiro"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="round" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect542"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.0047745358"
+       smooth_angles="0"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       step="1" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Metal_zigzag"
+     style="display:inline">
+    <path
+       style="color:#000000;fill:none;stroke:#ff3333;stroke-opacity:1;-inkscape-stroke:none"
+       d="m 79,259 v -3 h -7.378906 l -2,-2 H 79 v -8 H 64 v -2 h 15 v -8 H 64 v -2 h 15 v -8 H 64 v -2 h 15 v -8 H 64 v -2 h 15 v -8 H 64 v -2 h 15 v -8 H 14 v -2 h 65 v -8 H 14 v -2 h 65 v -8 H 14 v -2 h 65 v -8 H 14 v -2 h 65 v -8 H 14 v -2 h 65 v -8 H 14 v -2 h 65 v -8 H 64 v -2 h 15 v -8 H 64 v -2 h 15 v -8 H 64 v -2 h 15 v -8 H 64 v -2 H 79 V 96 H 64 v -2 h 15 v -8 h -9.378906 l 2,-2 H 79 v -8 h -7.378906 l -2,-2 H 79 V 66 H 64 V 64 H 79 V 56 H 64 V 54 H 79 V 46 H 64 V 44 H 79 V 36 H 64 v -2 h 15 v -8 h -9.378906 l 2.439453,-2.439453 1.5,-1.5 L 81,14.621094 V 259 h 8 V 14 h 2 v 245 h 8 V 14 h 2 v 245 h 8 V 14 h 2 v 245 h 8 V 14.621094 l 7.43945,7.439453 1.5,1.5 L 130.37891,26 H 121 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 9.37891 l -2,2 H 121 v 8 h 7.37891 l 2,2 H 121 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 65 v 2 h -65 v 8 h 65 v 2 h -65 v 8 h 65 v 2 h -65 v 8 h 65 v 2 h -65 v 8 h 65 v 2 h -65 v 8 h 65 v 2 h -65 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 15 v 2 h -15 v 8 h 9.37891 l -2,2 H 121 v 3 h 8.62109 l 8,-8 H 124 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 65 v -8 h -65 v -2 h 65 v -8 h -65 v -2 h 65 v -8 h -65 v -2 h 65 v -8 h -65 v -2 h 65 v -8 h -65 v -2 h 65 v -8 h -65 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 13.62109 l -8,-8 H 124 v -2 h 5.62109 l 8,-8 H 124 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 15 v -8 h -15 v -2 h 13.62109 l -7.56054,-7.560547 -1.5,-1.5 L 119.62109,11 H 116 v 245 h -2 V 11 h -8 v 245 h -2 V 11 H 96 V 256 H 94 V 11 H 86 V 256 H 84 V 11 h -3.621094 l -8.939453,8.939453 -1.5,1.5 L 62.378906,29 H 76 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 62.378906 l 8,8 H 76 v 2 h -5.621094 l -8,8 H 76 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 11 v 8 h 65 v 2 H 11 v 8 h 65 v 2 H 11 v 8 h 65 v 2 H 11 v 8 h 65 v 2 H 11 v 8 h 65 v 2 H 11 v 8 h 65 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 61 v 8 h 15 v 2 H 62.378906 l 8,8 H 79"
+       id="path6037-0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
