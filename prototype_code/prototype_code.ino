@@ -6,12 +6,14 @@ volatile int manomissione = LOW;
 LiquidCrystal lcd(4,5,9,8,7,6);	
 void setup() {
   Serial.begin(9600);
-  lcd.begin(16, 2);;
+  lcd.begin(16, 2);
   pinMode(2,INPUT_PULLUP);
   pinMode(3,INPUT_PULLUP);
+  pinMode(13,OUTPUT);
+  digitalWrite(13,LOW);
   delay(10);
-  attachInterrupt(digitalPinToInterrupt(2), up, FALLING); //interrupt per rilevare urto
-  attachInterrupt(digitalPinToInterrupt(3), open, FALLING); //interrupt per rilevare interruzione circuito
+  attachInterrupt(digitalPinToInterrupt(2), up, CHANGE); //interrupt per rilevare urto
+  attachInterrupt(digitalPinToInterrupt(3), open, CHANGE); //interrupt per rilevare interruzione circuito
   urto = LOW;
   manomissione = LOW;
 }
@@ -23,6 +25,7 @@ void loop() {
       lcd.print("Rilevato");
       lcd.setCursor(0, 1);
       lcd.print("Urto");
+      digitalWrite(13,HIGH);
   } else {
     //da cambiare con LOW
     if (manomissione == HIGH){
@@ -30,6 +33,7 @@ void loop() {
       lcd.print("Rilevata");
       lcd.setCursor(0, 1);
       lcd.print("Manomissione");
+      digitalWrite(13,HIGH);
     } else {
       lcd.clear();
       lcd.print("ok");
