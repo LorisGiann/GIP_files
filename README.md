@@ -15,9 +15,8 @@ To better illustrate and verify the feasibility of this idea, a proof of concept
 
 https://user-images.githubusercontent.com/42840531/217094010-be9d4fd1-da9f-4857-b5de-21de0359c7cd.mp4
 
-![demonstration video](photo&videos/demonstration_video.mp4)
-![prototype package](photo&videos/prototype_package.jpg | width=100)
-![Trying to open an already sealed box](photo&videos/tampered.jpg | width=100)
+![prototype_package](https://user-images.githubusercontent.com/42840531/217096409-4bbe9fcd-579d-4e0a-8fa2-37c9db0f6ca0.jpg)
+![tampered](https://user-images.githubusercontent.com/42840531/217096522-1c0f6240-f5df-481e-a6b6-a8a870f5d7dd.jpg)
 
 https://user-images.githubusercontent.com/42840531/217095624-7ae99151-60c2-41f5-ace8-7a2b68c8901c.mp4
 
@@ -26,8 +25,8 @@ And while the packaging could be easily manufactured using one of these [numeric
 https://user-images.githubusercontent.com/42840531/217094157-72ae5bf2-e1db-4025-afab-37052cc5f302.mp4
 
 ![cutting metal tracks](photo&videos/cutting_metal_tracks.mp4)
-![lasercut printed overlay used to cut metal tracks on paper](photo&videos/track_overlay.jpg | width=100)
+![lasercut printed overlay used to cut metal tracks on paper](https://user-images.githubusercontent.com/42840531/217096833-86483210-42e3-4a1b-a6a5-cff714268b7c.jpg)
 
 One way we think the cost of the solution can be reduced is to encourage schemes in which the electronic part can be reused for further expeditions, or use the electronics for something useful to be embedded in the product itself after the package has fulfilled its utility. Furthermore, innovative ways of communication between SOC and smartphone could be implemented in order to reduce the cost due to NFC o Bluetooth connectivity needed for the scanning. For example, the use of the smartphone camera decoding light pulses from an LED on the device can be a viable solution to receive small amounts of data without any additional RF electronics! Likewise, the smartphone flashlight can be used to send data towards a phototransistor on the device.
 With regards to the shock sensor, this turns out to be very simple and cheap: it's just 2 contacts closing if a certain G acceleration is detected
-![shock sensor](photo&videos/shock_sensor.JPG | width=100)
+![shock_sensor](https://user-images.githubusercontent.com/42840531/217096942-eba37d0e-ee1b-4cfd-9cbc-635da34781a6.JPG)
