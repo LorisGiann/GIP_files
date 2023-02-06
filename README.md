@@ -24,9 +24,10 @@ And while the packaging could be easily manufactured using one of these [numeric
 
 https://user-images.githubusercontent.com/42840531/217094157-72ae5bf2-e1db-4025-afab-37052cc5f302.mp4
 
-![cutting metal tracks](photo&videos/cutting_metal_tracks.mp4)
 ![lasercut printed overlay used to cut metal tracks on paper](https://user-images.githubusercontent.com/42840531/217096833-86483210-42e3-4a1b-a6a5-cff714268b7c.jpg)
 
+In the prototype, the electronic circuit (an Arduino Pro Mini) is external and is connected to the metal tracks of the packaging via 2 cables (soldering aluminium is not easy, but solder wick helps a lot for that)
+
 One way we think the cost of the solution can be reduced is to encourage schemes in which the electronic part can be reused for further expeditions, or use the electronics for something useful to be embedded in the product itself after the package has fulfilled its utility. Furthermore, innovative ways of communication between SOC and smartphone could be implemented in order to reduce the cost due to NFC o Bluetooth connectivity needed for the scanning. For example, the use of the smartphone camera decoding light pulses from an LED on the device can be a viable solution to receive small amounts of data without any additional RF electronics! Likewise, the smartphone flashlight can be used to send data towards a phototransistor on the device.
-With regards to the shock sensor, this turns out to be very simple and cheap: it's just 2 contacts closing if a certain G acceleration is detected
+With regards to the shock sensor, this turns out to be very simple and cheap: it's just 2 contacts closing if we go over a certain G acceleration
 ![shock_sensor](https://user-images.githubusercontent.com/42840531/217096942-eba37d0e-ee1b-4cfd-9cbc-635da34781a6.JPG)
